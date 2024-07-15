@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working with **NextJs/ReactJs, Mern Stack**
 
-- 👨‍💻 All of my projects are available at [https://github.com/nkav2447/](https://github.com/nkav2447/)
+- 👨‍💻 All of my projects are available at [repos](https://github.com/nkav2447?tab=repositories)
 
-- 📝 I write articles on helpful howtos, SE practices, technologies. [https://medium.com/@nkav2447](https://medium.com/@nkav2447)
+- 📝 I write articles on helpful howtos, SE practices, technologies. [On Medium](https://medium.com/@nkav2447)
 
 - 💬 Ask me about **ReactJs, Javascript/Typescript, Best SE practices and Database Design**
 
