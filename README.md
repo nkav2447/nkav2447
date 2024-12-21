@@ -13,6 +13,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Install MySQL on Fedora 40 and Reset Root Password](https://medium.com/@nkav2447/how-to-install-mysql-on-fedora-40-and-reset-root-password-1e18a54a9289?source=rss-911656f0591d------2)
+- [Run Virtual Machines on Fedora 40: Kvm/Qemu Setup](https://medium.com/@nkav2447/run-virtual-machines-on-fedora-40-kvm-qemu-setup-aaaa20a50460?source=rss-911656f0591d------2)
+- [The Power of DNF: A Deep Dive into Fedora’s Package Manager](https://medium.com/@nkav2447/the-power-of-dnf-a-deep-dive-into-fedoras-package-manager-0cc65531f062?source=rss-911656f0591d------2)
+- [Managing System Snapshots with Snapper on Fedora 40](https://medium.com/@nkav2447/managing-system-snapshots-with-snapper-on-fedora-40-834abd8ea1cd?source=rss-911656f0591d------2)
+- [Project-Based Learning of React: A Practical Guide](https://medium.com/@nkav2447/project-based-learning-of-react-a-practical-guide-f6f61d3553a7?source=rss-911656f0591d------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
