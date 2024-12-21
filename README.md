@@ -1,5 +1,6 @@
 <h1 align="center">Hello, I'm Naol Kumela, A Full-stack Software Engineer | GNU/Linux Enthusiast</h1>
 <h3 align="center">Crafting performant, scalable web applications. Strong database & API experience. Passionate about clean code & continuous learning and development.</h3>
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmRxMGRscmdnenBxaGpiMjJuYm50MmV5N3V6cWRmNzhhMWFmZXZvdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif">
 
 - 🔭 I’m currently working on **NextJs/ReactJs, Mern Stack**
 
